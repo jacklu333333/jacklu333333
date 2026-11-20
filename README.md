@@ -67,7 +67,6 @@ Developed C firmware for microcontroller-based electric-vehicle and golf-cart co
 ## Public code
 
 - [PedestrianDiffusion](https://github.com/jacklu333333/PedestrianDiffusion) — diffusion-based pedestrian inertial navigation
-- [DISUNet](https://github.com/jacklu333333/DISUNet) — IMU denoising with a UNet and diffusion for pedestrian tracking
 - [GATIS](https://github.com/jacklu333333/GATIS) — transformer for inertial indoor/outdoor detection
 
 More public repositories: [github.com/jacklu333333?tab=repositories](https://github.com/jacklu333333?tab=repositories)
